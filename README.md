@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App].
+This project was bootstrapped with [Create React App].\
 This an example of project-based learning of react 
 
 ### `npm start`
